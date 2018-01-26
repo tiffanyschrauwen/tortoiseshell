@@ -179,7 +179,7 @@ header .flex {
 @media only screen and (max-width: 560px) {
   .service {
     height: auto;
-    margin: 1.54rem;
+    margin: .77rem;
     font-size: .77rem;
   }
 }
